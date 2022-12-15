@@ -1,0 +1,17 @@
+*MenuApp*
+
+Problema: No se que cocinar
+
+Objetivo: Dar opciones al usuario
+	  mediante una app web en Angular
+
+Tiempo: 2h
+
+Solución: - Poder ingresar sugerencias
+	  - Ver las sugerencias
+	  - Gestionar sugerencias
+	  
+ 
+1. ng generate module suggestions --routing
+2. ng g c suggestionspages/suggestionsForm
+3. ng g c suggestionspages/pages/suggestionsForm
